@@ -1,0 +1,9 @@
+{
+  "name": "exclude-subdirectory-manifests",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/core": "11.0.0",
+    "axios": "0.21.0",
+    "lodash": "4.17.20"
+  }
+}
