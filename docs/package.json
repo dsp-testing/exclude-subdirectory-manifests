@@ -1,0 +1,9 @@
+{
+  "name": "docs-dependencies",
+  "version": "1.0.0",
+  "description": "Documentation dependencies that should be excluded by pattern",
+  "dependencies": {
+    "gitbook": "^3.2.0",
+    "markdown-it": "^13.0.0"
+  }
+}
