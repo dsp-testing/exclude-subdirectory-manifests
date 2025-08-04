@@ -1,0 +1,9 @@
+{
+  "name": "vendor-library-a",
+  "version": "2.1.0",
+  "description": "Vendor library A that should be excluded",
+  "dependencies": {
+    "moment": "^2.29.0",
+    "axios": "^1.0.0"
+  }
+}
