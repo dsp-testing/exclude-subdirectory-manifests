@@ -1,0 +1,10 @@
+{
+  "name": "test-specific-deps",
+  "version": "1.0.0",
+  "description": "Test-specific dependencies that should be excluded",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^10.0.0",
+    "sinon": "^15.0.0"
+  }
+}
