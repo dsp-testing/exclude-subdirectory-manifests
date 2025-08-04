@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "Test repository for Dependabot exclude-paths feature",
   "main": "src/index.js",
+  "workspaces": [
+    "examples/*",
+    "src/test",
+    "src/test/assets", 
+    "vendor/*",
+    "docs"
+  ],
   "scripts": {
     "start": "node src/index.js",
     "test": "jest"
