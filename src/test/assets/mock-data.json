@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "John Doe", "active": true },
+    { "id": 2, "name": "Jane Smith", "active": false }
+  ],
+  "products": [
+    { "id": 1, "name": "Product A", "price": 29.99 },
+    { "id": 2, "name": "Product B", "price": 49.99 }
+  ]
+}
