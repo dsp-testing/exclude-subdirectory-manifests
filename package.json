@@ -1,9 +1,20 @@
 {
   "name": "exclude-subdirectory-manifests",
   "version": "1.0.0",
+  "description": "Test repository for Dependabot exclude-paths feature",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
   "dependencies": {
-    "@angular/core": "11.0.0",
-    "axios": "0.21.0",
-    "lodash": "4.17.20"
-  }
+    "express": "^4.18.0",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "author": "Test Author",
+  "license": "MIT"
 }
