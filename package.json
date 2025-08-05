@@ -5,10 +5,10 @@
   "main": "src/index.js",
   "workspaces": [
     "examples/*",
-    "src/test",
-    "src/test/assets", 
+    "src/test/*",
+    "src/test/assets/*", 
     "vendor/*",
-    "docs"
+    "docs/*"
   ],
   "scripts": {
     "start": "node src/index.js",
