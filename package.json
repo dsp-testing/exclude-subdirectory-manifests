@@ -6,7 +6,6 @@
   "workspaces": [
     "examples/*",
     "src/test/*",
-    "src/test/assets/*", 
     "vendor/*",
     "docs/*"
   ],
