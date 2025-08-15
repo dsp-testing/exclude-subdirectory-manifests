@@ -4,6 +4,6 @@
   "description": "Vendor library B that should be excluded",
   "dependencies": {
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^19.1.1"
   }
 }
