@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test assets with dependencies that should be excluded",
   "dependencies": {
-    "faker": "^5.5.0",
+    "faker": "^6.6.6",
     "uuid": "^9.0.0"
   }
 }
