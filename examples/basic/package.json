@@ -4,6 +4,6 @@
   "description": "Basic example that should NOT be excluded",
   "dependencies": {
     "chalk": "^4.1.0",
-    "commander": "^14.0.0"
+    "commander": "^9.0.0"
   }
 }
