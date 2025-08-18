@@ -3,7 +3,7 @@
   "version": "1.5.3",
   "description": "Vendor library B that should be excluded",
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^18.0.0"
+    "react": "^18.0.0",
+    "react-dom": "18.0.0"
   }
 }
