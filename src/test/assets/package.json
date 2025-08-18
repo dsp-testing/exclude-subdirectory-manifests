@@ -4,6 +4,6 @@
   "description": "Test assets with dependencies that should be excluded",
   "dependencies": {
     "faker": "^5.5.0",
-    "uuid": "^9.0.0"
+    "uuid": "^11.1.0"
   }
 }
