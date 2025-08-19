@@ -14,4 +14,3 @@ updates:
       - "vendor/**"
       - "docs/**"
       - "src/test/helper.js"
-
