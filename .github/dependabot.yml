@@ -14,6 +14,7 @@ updates:
       - "vendor/**"
       - "docs/**"
       - "src/test/helper.js"
+      - "examples/advanced"
 
 # Sample patterns that can be used-
 
