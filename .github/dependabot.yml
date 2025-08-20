@@ -15,6 +15,9 @@ updates:
       - "docs/**"
       - "src/test/helper.js"
       - "examples/advanced"
+    cooldown:
+      default-days: 1
+      
 
 # Sample patterns that can be used-
 
